@@ -1,4 +1,7 @@
 Collaboration Demo Project
-Version 1.0
---------------------------
+Version 1.2
+
+Add some fun feature.
+Add some big features.
+
 thanks for support.
