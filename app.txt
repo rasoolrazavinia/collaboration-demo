@@ -1,2 +1,4 @@
 Collaboration Demo Project
 Version 1.0
+------------------------------
+Hi user, Welcome to Collaboration Demo Project.
